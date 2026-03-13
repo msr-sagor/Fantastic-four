@@ -80,8 +80,6 @@ async function main() {
 </html>`,
     "utf8"
   );
-
-  console.log(`Generated ${seen.size} streams`);
 }
 
 function cleanText(value) {
