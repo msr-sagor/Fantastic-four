@@ -4,7 +4,7 @@ import path from "path";
 const JSON_URL =
   "https://raw.githubusercontent.com/Jitendra-unatti/fancode/refs/heads/main/data/fancode.json";
 
-const PAGES_BASE = process.env.PAGES_BASE_URL || "https://username.github.io/repo";
+const PAGES_BASE = process.env.PAGES_BASE_URL || "https://msr-sagor.github.io/Fantastic-four/";
 
 async function main() {
   const response = await fetch(JSON_URL, {
