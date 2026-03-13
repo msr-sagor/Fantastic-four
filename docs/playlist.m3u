@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="141307" tvg-name="Konark Suryas Odisha Vs India Captains [ENGLISH]" group-title="Cricket",Konark Suryas Odisha Vs India Captains [ENGLISH]
+#EXTINF:-1 tvg-id="141140" tvg-name="Main Feed Day 2 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Main Feed Day 2 [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141140_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141142" tvg-name="Featured Holes Day 2 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Featured Holes Day 2 [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141142_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141141" tvg-name="Featured Groups Day 2 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Featured Groups Day 2 [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141141_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141139" tvg-name="World Feed Day 2 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",World Feed Day 2 [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141139_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141031" tvg-name="Doubles Semi Finals [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg" tvg-language="ENGLISH" group-title="Tennis",Doubles Semi Finals [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141031_ENGLISH.m3u8
