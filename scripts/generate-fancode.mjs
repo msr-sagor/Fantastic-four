@@ -4,19 +4,12 @@ import path from "path";
 const JSON_URL =
   "https://raw.githubusercontent.com/Jitendra-unatti/fancode/refs/heads/main/data/fancode.json";
 
-const PAGES_BASE = process.env.PAGES_BASE_URL || "https://msr-sagor.github.io/Fantastic-four/";
+const PAGES_BASE = "https://msr-sagor.github.io/Fantastic-four";
 
 async function main() {
-  const response = await fetch(JSON_URL, {
-    headers: {
-      "Cache-Control": "no-cache, no-store, must-revalidate",
-      Pragma: "no-cache",
-      Expires: "0",
-    },
-  });
-
+  const response = await fetch(JSON_URL, { cache: "no-store" });
   if (!response.ok) {
-    throw new Error(`Failed to fetch JSON source: ${response.status}`);
+    throw new Error(`Failed to fetch JSON: ${response.status}`);
   }
 
   const json = await response.json();
@@ -27,7 +20,7 @@ async function main() {
 
   await fs.writeFile(path.join(docsDir, ".nojekyll"), "", "utf8");
 
-  const lines = ["#EXTM3U"];
+  const playlistLines = ["#EXTM3U"];
   const seen = new Set();
 
   for (const item of matches) {
@@ -37,27 +30,24 @@ async function main() {
 
     if (!matchId || !master || typeof master !== "string") continue;
 
-    const uniqueKey = `${matchId}_${language}`;
-    if (seen.has(uniqueKey)) continue;
-    seen.add(uniqueKey);
-
-    const rawTitle = cleanTitle(item?.title || `Match ${matchId}`);
-    const finalTitle = `${rawTitle} [${language}]`;
-
-    const logo = item?.image || "";
-    const category = cleanText(item?.category || "FanCode");
+    const key = `${matchId}_${language}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
 
     let content = master.replace(/https:\/\/in-/g, "https://bd-").trim();
     if (!content.startsWith("#EXTM3U")) {
       content = "#EXTM3U\n" + content;
     }
 
+    const rawTitle = cleanTitle(item?.title || `Match ${matchId}`);
+    const finalTitle = `${rawTitle} [${language}]`;
+    const logo = item?.image || "";
+    const category = cleanText(item?.category || "FanCode");
+
     const fileName = `${matchId}_${safeName(language)}.m3u8`;
-    const filePath = path.join(docsDir, fileName);
+    await fs.writeFile(path.join(docsDir, fileName), content, "utf8");
 
-    await fs.writeFile(filePath, content, "utf8");
-
-    lines.push(
+    playlistLines.push(
       `#EXTINF:-1 tvg-id="${escapeAttr(
         matchId
       )}" tvg-name="${escapeAttr(finalTitle)}" tvg-logo="${escapeAttr(
@@ -66,41 +56,32 @@ async function main() {
         language
       )}" group-title="${escapeAttr(category)}",${finalTitle}`
     );
-    lines.push(`${PAGES_BASE}/${fileName}`);
+    playlistLines.push(`${PAGES_BASE}/${fileName}`);
   }
 
-  await fs.writeFile(path.join(docsDir, "playlist.m3u"), lines.join("\n"), "utf8");
-
   await fs.writeFile(
-    path.join(docsDir, "index.html"),
-    buildIndexHtml(PAGES_BASE),
+    path.join(docsDir, "playlist.m3u"),
+    playlistLines.join("\n"),
     "utf8"
   );
 
-  console.log(`Generated ${seen.size} stream files`);
-}
-
-function buildIndexHtml(base) {
-  return `<!DOCTYPE html>
-<html lang="en">
+  await fs.writeFile(
+    path.join(docsDir, "index.html"),
+    `<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
   <title>FanCode Playlist</title>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 16px; }
-    a { word-break: break-all; }
-  </style>
 </head>
-<body>
+<body style="font-family:Arial;text-align:center;padding:40px">
   <h1>FanCode Playlist</h1>
-  <p><a href="${base}/playlist.m3u">Open playlist.m3u</a></p>
+  <p><a href="./playlist.m3u">Open playlist.m3u</a></p>
 </body>
-</html>`;
-}
+</html>`,
+    "utf8"
+  );
 
-function escapeAttr(value) {
-  return String(value ?? "").replace(/"/g, "&quot;");
+  console.log(`Generated ${seen.size} streams`);
 }
 
 function cleanText(value) {
@@ -119,6 +100,10 @@ function safeName(value) {
     .trim()
     .replace(/\s+/g, "_")
     .replace(/[^A-Za-z0-9_-]/g, "_");
+}
+
+function escapeAttr(value) {
+  return String(value ?? "").replace(/"/g, "&quot;");
 }
 
 main().catch((err) => {
