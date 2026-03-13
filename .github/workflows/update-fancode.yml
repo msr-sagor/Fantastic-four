@@ -21,10 +21,10 @@ jobs:
         with:
           node-version: 20
 
-      - name: Generate playlist and m3u8 files
+      - name: Generate playlist
         run: node scripts/generate-fancode.mjs
 
-      - name: Commit and push changes
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -32,9 +32,9 @@ jobs:
           git add docs/
 
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
             exit 0
           fi
 
-          git commit -m "Update FanCode playlist"
+          git commit -m "Update playlist"
           git push
