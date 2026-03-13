@@ -1,4 +1,4 @@
-name: Update FanCode Playlist
+name: Update FanCode to Public Repo
 
 on:
   workflow_dispatch:
@@ -6,14 +6,14 @@ on:
     - cron: "*/30 * * * *"
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  build:
+  build-and-publish:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout private repo
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -21,11 +21,24 @@ jobs:
         with:
           node-version: 20
 
-      - name: Generate playlist
+      - name: Generate docs files
         run: node scripts/generate-fancode.mjs
 
-      - name: Commit and push
+      - name: Checkout public repo
+        uses: actions/checkout@v4
+        with:
+          repository: msr-sagor/Fantastic-four
+          token: ${{ secrets.PUBLIC_REPO_PAT }}
+          path: public-repo
+
+      - name: Copy generated files to public repo
         run: |
+          rm -rf public-repo/docs/*
+          cp -r docs/* public-repo/docs/
+
+      - name: Commit and push to public repo
+        run: |
+          cd public-repo
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
