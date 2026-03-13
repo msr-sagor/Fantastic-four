@@ -1,4 +1,3 @@
-
 #EXTM3U
-#EXTINF:-1,Test
-https://example.com/test.m3u8
+#EXTINF:-1 tvg-id="141307" tvg-name="Konark Suryas Odisha Vs India Captains [ENGLISH]" group-title="Cricket",Konark Suryas Odisha Vs India Captains [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141307_ENGLISH.m3u8
