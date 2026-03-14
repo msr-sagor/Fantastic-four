@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="140714" tvg-name="Suriname Vs Cayman Islands [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140714_5971_CAY_SRN_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Suriname Vs Cayman Islands [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/140714_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="140721" tvg-name="Al Fateh Sc Vs Al Hilal Sfc [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140721_5655_AFF_AHS_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Al Fateh Sc Vs Al Hilal Sfc [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/140721_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="140720" tvg-name="Al Khaleej Vs Al Nassr Fc [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140720_5655_AKH_ANF_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Al Khaleej Vs Al Nassr Fc [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/140720_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="131100" tvg-name="Real Madrid Vs Elche Cf [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131100_5427_RM_ELC_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Real Madrid Vs Elche Cf [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/131100_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="131100" tvg-name="Real Madrid Vs Elche Cf [HINDI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131100_5427_RM_ELC_FC-Web.png" tvg-language="HINDI" group-title="Football",Real Madrid Vs Elche Cf [HINDI]
