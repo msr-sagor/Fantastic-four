@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="141268" tvg-name="Cag Delhi Vs A&s Kolkata [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg" tvg-language="ENGLISH" group-title="Cricket",Cag Delhi Vs A&s Kolkata [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141268_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141361" tvg-name="Hindon Titans Vs Yamuna Super Kings [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141361_6007_YSK_HT_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Hindon Titans Vs Yamuna Super Kings [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141361_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141198" tvg-name="Delhi Champions Vs Rajasthan Emperors [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" tvg-language="ENGLISH" group-title="Cricket",Delhi Champions Vs Rajasthan Emperors [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141198_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="140461" tvg-name="East Bengal Fc Vs Kerala Blasters Fc [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140461_5956_EBFC_KBFC_FC-Web_1772451223711.jpg" tvg-language="ENGLISH" group-title="Football",East Bengal Fc Vs Kerala Blasters Fc [ENGLISH]
@@ -17,3 +15,5 @@ https://msr-sagor.github.io/Fantastic-four/140461_BENGALI.m3u8
 https://msr-sagor.github.io/Fantastic-four/141176_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141175" tvg-name="East Bengal Fc Vs Kerala Blasters Fc [MALAYALAM]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141176_5973_EBFC_KBFC_fc-web.jpg" tvg-language="MALAYALAM" group-title="Football",East Bengal Fc Vs Kerala Blasters Fc [MALAYALAM]
 https://msr-sagor.github.io/Fantastic-four/141175_MALAYALAM.m3u8
+#EXTINF:-1 tvg-id="141361" tvg-name="Hindon Titans Vs Yamuna Super Kings [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141361_6007_YSK_HT_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Hindon Titans Vs Yamuna Super Kings [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141361_ENGLISH.m3u8
