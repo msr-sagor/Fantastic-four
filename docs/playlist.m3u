@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="139378" tvg-name="Qualifying [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg" tvg-language="ENGLISH" group-title="Formula 1",Qualifying [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/139378_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141303" tvg-name="Bahrain Vs Malaysia [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg" tvg-language="ENGLISH" group-title="Cricket",Bahrain Vs Malaysia [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141303_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141197" tvg-name="Gujarat Tigers Vs Mumbai Maverics [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" tvg-language="ENGLISH" group-title="Cricket",Gujarat Tigers Vs Mumbai Maverics [ENGLISH]
@@ -11,5 +13,3 @@ https://msr-sagor.github.io/Fantastic-four/141361_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/140813_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="140914" tvg-name="Newcastle Jets Vs Auckland [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140914_5802_NJ_AFC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Newcastle Jets Vs Auckland [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/140914_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="139378" tvg-name="Qualifying [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg" tvg-language="ENGLISH" group-title="Formula 1",Qualifying [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/139378_ENGLISH.m3u8
