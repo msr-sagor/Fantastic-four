@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="133990" tvg-name="New South Wales Breakers Vs South Australian Scorpions [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg" tvg-language="ENGLISH" group-title="Cricket",New South Wales Breakers Vs South Australian Scorpions [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/133990_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141303" tvg-name="Bahrain Vs Malaysia [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg" tvg-language="ENGLISH" group-title="Cricket",Bahrain Vs Malaysia [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141303_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141360" tvg-name="Gomti Thunder Vs Saryu Smashers [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141360_6007_GT_SS_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Gomti Thunder Vs Saryu Smashers [ENGLISH]
@@ -13,8 +11,6 @@ https://msr-sagor.github.io/Fantastic-four/134043_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/134042_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="134041" tvg-name="New South Wales Vs Western Australia [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png" tvg-language="ENGLISH" group-title="Cricket",New South Wales Vs Western Australia [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/134041_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="140913" tvg-name="Central Coast Mariners Vs Adelaide United [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140913_5802_CCM_ADL_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Central Coast Mariners Vs Adelaide United [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/140913_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="140813" tvg-name="China Pr Women Vs Chinese Taipei Women [ENGLISH]" tvg-logo="https://images.fancode.com/aig/match/v1773380027049/140813_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",China Pr Women Vs Chinese Taipei Women [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/140813_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="140914" tvg-name="Newcastle Jets Vs Auckland [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140914_5802_NJ_AFC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Newcastle Jets Vs Auckland [ENGLISH]
