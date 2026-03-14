@@ -4,12 +4,20 @@ import path from "path";
 const JSON_URL =
   "https://raw.githubusercontent.com/Jitendra-unatti/fancode/refs/heads/main/data/fancode.json";
 
-const PAGES_BASE = "https://msr-sagor.github.io/Fantastic-four";
+const BASE_URL = "https://msr-sagor.github.io/Fantastic-four";
 
 async function main() {
-  const response = await fetch(JSON_URL, { cache: "no-store" });
+  const response = await fetch(JSON_URL, {
+    cache: "no-store",
+    headers: {
+      "Cache-Control": "no-cache, no-store, must-revalidate",
+      Pragma: "no-cache",
+      Expires: "0",
+    },
+  });
+
   if (!response.ok) {
-    throw new Error(`Failed to fetch JSON: ${response.status}`);
+    throw new Error(`Failed to fetch JSON source: ${response.status}`);
   }
 
   const json = await response.json();
@@ -18,52 +26,19 @@ async function main() {
   const docsDir = path.join(process.cwd(), "docs");
   await fs.mkdir(docsDir, { recursive: true });
 
-  await fs.writeFile(path.join(docsDir, ".nojekyll"), "", "utf8");
-
-  const playlistLines = ["#EXTM3U"];
-  const seen = new Set();
-
-  for (const item of matches) {
-    const matchId = String(item?.match_id || "").trim();
-    const language = cleanText(item?.language || "UNKNOWN");
-    const master = item?.auto_streams?.[0]?.auto;
-
-    if (!matchId || !master || typeof master !== "string") continue;
-
-    const key = `${matchId}_${language}`;
-    if (seen.has(key)) continue;
-    seen.add(key);
-
-    let content = master.replace(/https:\/\/in-/g, "https://bd-").trim();
-    if (!content.startsWith("#EXTM3U")) {
-      content = "#EXTM3U\n" + content;
+  // পুরনো generated files delete
+  const oldFiles = await fs.readdir(docsDir).catch(() => []);
+  for (const file of oldFiles) {
+    if (
+      file.endsWith(".m3u8") ||
+      file === "playlist.m3u"
+    ) {
+      await fs.unlink(path.join(docsDir, file)).catch(() => {});
     }
-
-    const rawTitle = cleanTitle(item?.title || `Match ${matchId}`);
-    const finalTitle = `${rawTitle} [${language}]`;
-    const logo = item?.image || "";
-    const category = cleanText(item?.category || "FanCode");
-
-    const fileName = `${matchId}_${safeName(language)}.m3u8`;
-    await fs.writeFile(path.join(docsDir, fileName), content, "utf8");
-
-    playlistLines.push(
-      `#EXTINF:-1 tvg-id="${escapeAttr(
-        matchId
-      )}" tvg-name="${escapeAttr(finalTitle)}" tvg-logo="${escapeAttr(
-        logo
-      )}" tvg-language="${escapeAttr(
-        language
-      )}" group-title="${escapeAttr(category)}",${finalTitle}`
-    );
-    playlistLines.push(`${PAGES_BASE}/${fileName}`);
   }
 
-  await fs.writeFile(
-    path.join(docsDir, "playlist.m3u"),
-    playlistLines.join("\n"),
-    "utf8"
-  );
+  // required static files recreate
+  await fs.writeFile(path.join(docsDir, ".nojekyll"), "", "utf8");
 
   await fs.writeFile(
     path.join(docsDir, "index.html"),
@@ -81,7 +56,53 @@ async function main() {
     "utf8"
   );
 
-  console.log(`Generated ${seen.size} streams`);
+  const playlist = ["#EXTM3U"];
+  const seen = new Set();
+
+  for (const item of matches) {
+    const matchId = String(item?.match_id || "").trim();
+    const language = cleanText(item?.language || "UNKNOWN");
+    const master = item?.auto_streams?.[0]?.auto;
+
+    // playable stream না থাকলে skip
+    if (!matchId || !master || typeof master !== "string") continue;
+
+    const key = `${matchId}_${language}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+
+    let content = master.replace(/https:\/\/in-/g, "https://bd-").trim();
+    if (!content.startsWith("#EXTM3U")) {
+      content = "#EXTM3U\n" + content;
+    }
+
+    const rawTitle = cleanTitle(item?.title || `Match ${matchId}`);
+    const finalTitle = `${rawTitle} [${language}]`;
+    const logo = item?.image || "";
+    const category = cleanText(item?.category || "FanCode");
+    const fileName = `${matchId}_${safeName(language)}.m3u8`;
+
+    await fs.writeFile(path.join(docsDir, fileName), content, "utf8");
+
+    playlist.push(
+      `#EXTINF:-1 tvg-id="${escapeAttr(
+        matchId
+      )}" tvg-name="${escapeAttr(finalTitle)}" tvg-logo="${escapeAttr(
+        logo
+      )}" tvg-language="${escapeAttr(
+        language
+      )}" group-title="${escapeAttr(category)}",${finalTitle}`
+    );
+    playlist.push(`${BASE_URL}/${fileName}`);
+  }
+
+  await fs.writeFile(
+    path.join(docsDir, "playlist.m3u"),
+    playlist.join("\n"),
+    "utf8"
+  );
+
+  console.log(`Generated ${seen.size} active streams`);
 }
 
 function cleanText(value) {
