@@ -7,8 +7,6 @@ https://msr-sagor.github.io/Fantastic-four/141309_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/141309_HINDI.m3u8
 #EXTINF:-1 tvg-id="140715" tvg-name="Mexico Vs Suriname [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140715_5971_SRN_MEX_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Mexico Vs Suriname [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/140715_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="131101" tvg-name="Rcd Mallorca Vs Rcd Espanyol [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131101_5427_MRC_ESL_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Rcd Mallorca Vs Rcd Espanyol [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/131101_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="140464" tvg-name="Inter Kashi Fc Vs Mumbai City Fc [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140464_5956_KSHI_MCFC_FC-Web_1772451528781.jpg" tvg-language="ENGLISH" group-title="Football",Inter Kashi Fc Vs Mumbai City Fc [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/140464_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="140464" tvg-name="Inter Kashi Fc Vs Mumbai City Fc [HINDI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140464_5956_KSHI_MCFC_FC-Web_1772451528781.jpg" tvg-language="HINDI" group-title="Football",Inter Kashi Fc Vs Mumbai City Fc [HINDI]
@@ -33,3 +31,5 @@ https://msr-sagor.github.io/Fantastic-four/141150_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/141149_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141354" tvg-name="Europe Day 2 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" tvg-language="ENGLISH" group-title="Motorsports",Europe Day 2 [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141354_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="131101" tvg-name="Rcd Mallorca Vs Rcd Espanyol [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131101_5427_MRC_ESL_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Rcd Mallorca Vs Rcd Espanyol [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/131101_ENGLISH.m3u8
