@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="141309" tvg-name="Royal Riders Punjab Vs Konark Suryas Odisha [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg" tvg-language="ENGLISH" group-title="Cricket",Royal Riders Punjab Vs Konark Suryas Odisha [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141309_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141309" tvg-name="Royal Riders Punjab Vs Konark Suryas Odisha [HINDI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg" tvg-language="HINDI" group-title="Cricket",Royal Riders Punjab Vs Konark Suryas Odisha [HINDI]
-https://msr-sagor.github.io/Fantastic-four/141309_HINDI.m3u8
-#EXTINF:-1 tvg-id="140715" tvg-name="Mexico Vs Suriname [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140715_5971_SRN_MEX_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Mexico Vs Suriname [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/140715_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="131107" tvg-name="Real Betis Vs Rc Celta [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131107_5427_RB_CEV_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Real Betis Vs Rc Celta [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/131107_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141148" tvg-name="Main Feed Day 4 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Main Feed Day 4 [ENGLISH]
