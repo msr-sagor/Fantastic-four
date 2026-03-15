@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="139379" tvg-name="Race [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg" tvg-language="ENGLISH" group-title="Formula 1",Race [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/139379_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="139379" tvg-name="Race [HINDI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg" tvg-language="HINDI" group-title="Formula 1",Race [HINDI]
-https://msr-sagor.github.io/Fantastic-four/139379_HINDI.m3u8
-#EXTINF:-1 tvg-id="139379" tvg-name="Race [TAMIL]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg" tvg-language="TAMIL" group-title="Formula 1",Race [TAMIL]
-https://msr-sagor.github.io/Fantastic-four/139379_TAMIL.m3u8
 #EXTINF:-1 tvg-id="141061" tvg-name="New Zealand Vs South Africa [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg" tvg-language="ENGLISH" group-title="Cricket",New Zealand Vs South Africa [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141061_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141408" tvg-name="Bangladesh Vs Pakistan [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg" tvg-language="ENGLISH" group-title="Cricket",Bangladesh Vs Pakistan [ENGLISH]
@@ -19,9 +13,17 @@ https://msr-sagor.github.io/Fantastic-four/141269_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/141200_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141363" tvg-name="Betwa Blasters Vs Ganga Warriors [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141363_6007_BB_GW_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Betwa Blasters Vs Ganga Warriors [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141363_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="134043" tvg-name="Tasmania Vs Queensland [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png" tvg-language="ENGLISH" group-title="Cricket",Tasmania Vs Queensland [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/134043_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="140915" tvg-name="Melbourne Victory Vs Macarthur [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140915_5802_MLV_MAC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Melbourne Victory Vs Macarthur [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/140915_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="134043" tvg-name="Tasmania Vs Queensland [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png" tvg-language="ENGLISH" group-title="Cricket",Tasmania Vs Queensland [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/134043_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="139379" tvg-name="Race [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg" tvg-language="ENGLISH" group-title="Formula 1",Race [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/139379_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="139379" tvg-name="Race [HINDI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg" tvg-language="HINDI" group-title="Formula 1",Race [HINDI]
+https://msr-sagor.github.io/Fantastic-four/139379_HINDI.m3u8
+#EXTINF:-1 tvg-id="139379" tvg-name="Race [TAMIL]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_China_GP_web-match-card-(1).jpg" tvg-language="TAMIL" group-title="Formula 1",Race [TAMIL]
+https://msr-sagor.github.io/Fantastic-four/139379_TAMIL.m3u8
 #EXTINF:-1 tvg-id="141419" tvg-name="Race [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web.jpg" tvg-language="ENGLISH" group-title="Motorsports",Race [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141419_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141441" tvg-name="Isgl Mumbai City Qualifiers [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg" tvg-language="ENGLISH" group-title="Live Events",Isgl Mumbai City Qualifiers [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141441_ENGLISH.m3u8
