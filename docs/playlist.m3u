@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="141408" tvg-name="Bangladesh Vs Pakistan [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-Pakistan_ODI_WEB_1080_x_810.jpg" tvg-language="ENGLISH" group-title="Cricket",Bangladesh Vs Pakistan [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141408_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141309" tvg-name="Royal Riders Punjab Vs Konark Suryas Odisha [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg" tvg-language="ENGLISH" group-title="Cricket",Royal Riders Punjab Vs Konark Suryas Odisha [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141309_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141309" tvg-name="Royal Riders Punjab Vs Konark Suryas Odisha [HINDI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg" tvg-language="HINDI" group-title="Cricket",Royal Riders Punjab Vs Konark Suryas Odisha [HINDI]
 https://msr-sagor.github.io/Fantastic-four/141309_HINDI.m3u8
 #EXTINF:-1 tvg-id="140715" tvg-name="Mexico Vs Suriname [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140715_5971_SRN_MEX_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Mexico Vs Suriname [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/140715_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="131106" tvg-name="Fc Barcelona Vs Sevilla Fc [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Fc Barcelona Vs Sevilla Fc [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/131106_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="131106" tvg-name="Fc Barcelona Vs Sevilla Fc [HINDI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png" tvg-language="HINDI" group-title="Football",Fc Barcelona Vs Sevilla Fc [HINDI]
-https://msr-sagor.github.io/Fantastic-four/131106_HINDI.m3u8
-#EXTINF:-1 tvg-id="131106" tvg-name="Fc Barcelona Vs Sevilla Fc [BENGALI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png" tvg-language="BENGALI" group-title="Football",Fc Barcelona Vs Sevilla Fc [BENGALI]
-https://msr-sagor.github.io/Fantastic-four/131106_BENGALI.m3u8
+#EXTINF:-1 tvg-id="131107" tvg-name="Real Betis Vs Rc Celta [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131107_5427_RB_CEV_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Real Betis Vs Rc Celta [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/131107_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141148" tvg-name="Main Feed Day 4 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Main Feed Day 4 [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141148_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141150" tvg-name="Featured Holes Day 4 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Featured Holes Day 4 [ENGLISH]
@@ -21,3 +15,9 @@ https://msr-sagor.github.io/Fantastic-four/141150_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/141149_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141147" tvg-name="World Feed Day 4 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",World Feed Day 4 [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141147_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="131106" tvg-name="Fc Barcelona Vs Sevilla Fc [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Fc Barcelona Vs Sevilla Fc [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/131106_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="131106" tvg-name="Fc Barcelona Vs Sevilla Fc [HINDI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png" tvg-language="HINDI" group-title="Football",Fc Barcelona Vs Sevilla Fc [HINDI]
+https://msr-sagor.github.io/Fantastic-four/131106_HINDI.m3u8
+#EXTINF:-1 tvg-id="131106" tvg-name="Fc Barcelona Vs Sevilla Fc [BENGALI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131106_5427_BAR_SEV_FC-Web.png" tvg-language="BENGALI" group-title="Football",Fc Barcelona Vs Sevilla Fc [BENGALI]
+https://msr-sagor.github.io/Fantastic-four/131106_BENGALI.m3u8
