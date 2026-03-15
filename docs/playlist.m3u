@@ -1,17 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="140716" tvg-name="Argentina Vs Cayman Islands [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140716_5971_ARG_CAY_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Argentina Vs Cayman Islands [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/140716_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="131104" tvg-name="Real Sociedad Vs Ca Osasuna [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131104_5427_RS_OSN_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Real Sociedad Vs Ca Osasuna [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/131104_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141219" tvg-name="Sporting De Gijón Vs Castellón [ENGLISH]" tvg-logo="https://images.fancode.com/aig/match/v1773431102732/141219_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",Sporting De Gijón Vs Castellón [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141219_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141148" tvg-name="Main Feed Day 4 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Main Feed Day 4 [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141148_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141150" tvg-name="Featured Holes Day 4 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Featured Holes Day 4 [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141150_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141149" tvg-name="Featured Groups Day 4 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Featured Groups Day 4 [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141149_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141147" tvg-name="World Feed Day 4 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",World Feed Day 4 [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141147_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141033" tvg-name="Men's Singles Finals [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Daniil-Medvedev-vs-Jannik-Sinner_fc-web.jpg" tvg-language="ENGLISH" group-title="Tennis",Men's Singles Finals [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141033_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="131104" tvg-name="Real Sociedad Vs Ca Osasuna [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131104_5427_RS_OSN_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Real Sociedad Vs Ca Osasuna [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/131104_ENGLISH.m3u8
