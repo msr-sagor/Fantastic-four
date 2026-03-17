@@ -1,9 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="141062" tvg-name="New Zealand Vs South Africa [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg" tvg-language="ENGLISH" group-title="Cricket",New Zealand Vs South Africa [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141062_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141366" tvg-name="Manorama Marvels Vs Hindon Titans [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141366_6007_MM_HT_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Manorama Marvels Vs Hindon Titans [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141366_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141205" tvg-name="Delhi Champions Vs Chennai Warlords [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png" tvg-language="ENGLISH" group-title="Cricket",Delhi Champions Vs Chennai Warlords [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141205_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="134043" tvg-name="Tasmania Vs Queensland [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134043_5609_TAS_QUN_FC-Web.png" tvg-language="ENGLISH" group-title="Cricket",Tasmania Vs Queensland [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/134043_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="134041" tvg-name="New South Wales Vs Western Australia [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png" tvg-language="ENGLISH" group-title="Cricket",New South Wales Vs Western Australia [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/134041_ENGLISH.m3u8
