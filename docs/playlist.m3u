@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="139178" tvg-name="Atlanta Vs Los Angeles [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png" tvg-language="ENGLISH" group-title="Golf",Atlanta Vs Los Angeles [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/139178_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141101" tvg-name="Alajuelense Vs Los Angeles Football Club [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141101_5954_LDA_LAF_1772957741167.png" tvg-language="ENGLISH" group-title="Football",Alajuelense Vs Los Angeles Football Club [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141101_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="139179" tvg-name="Jupiter Vs Boston [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png" tvg-language="ENGLISH" group-title="Golf",Jupiter Vs Boston [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/139179_ENGLISH.m3u8
