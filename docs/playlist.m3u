@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="141103" tvg-name="Inter Miami Cf Vs Nashville Sc [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141103_5954_MIA_NSH_1772957805501.png" tvg-language="ENGLISH" group-title="Football",Inter Miami Cf Vs Nashville Sc [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141103_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141034" tvg-name="World Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",World Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141034_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141455" tvg-name="G Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",G Court Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141455_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141453" tvg-name="D Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",D Court Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141453_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141452" tvg-name="C Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",C Court Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141452_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141451" tvg-name="B Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",B Court Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141451_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141104" tvg-name="Club América Vs Philadelphia Union [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141104_5954_AME_PU_1772957805499.png" tvg-language="ENGLISH" group-title="Football",Club América Vs Philadelphia Union [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141104_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="140818" tvg-name="Uzbekistan Women Vs Philippines Women [ENGLISH]" tvg-logo="https://images.fancode.com/aig/match/v1773823668701/140818_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",Uzbekistan Women Vs Philippines Women [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/140818_ENGLISH.m3u8
