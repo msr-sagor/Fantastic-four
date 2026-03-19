@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="141389" tvg-name="Marquee Feed Day 1 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Marquee Feed Day 1 [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141389_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141387" tvg-name="Featured Holes Day 1 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Featured Holes Day 1 [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141387_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141386" tvg-name="Main Feed Day 1 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Main Feed Day 1 [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141386_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141388" tvg-name="Featured Groups Day 1 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Featured Groups Day 1 [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141388_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141328" tvg-name="Australia Women Vs West Indies Women [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",Australia Women Vs West Indies Women [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141328_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141459" tvg-name="E Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",E Court Feed [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141459_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141457" tvg-name="H Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",H Court Feed [ENGLISH]
@@ -21,5 +15,3 @@ https://msr-sagor.github.io/Fantastic-four/141456_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/141460_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141037" tvg-name="A Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",A Court Feed [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141037_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141390" tvg-name="World Feed Day 1 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",World Feed Day 1 [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141390_ENGLISH.m3u8
