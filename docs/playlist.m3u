@@ -3,16 +3,6 @@
 https://msr-sagor.github.io/Fantastic-four/141314_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141314" tvg-name="Mumbai Spartans Vs Royal Riders Punjab [HINDI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141319_6002_MSP_RRP_FC-Web_1773487500782.jpg" tvg-language="HINDI" group-title="Cricket",Mumbai Spartans Vs Royal Riders Punjab [HINDI]
 https://msr-sagor.github.io/Fantastic-four/141314_HINDI.m3u8
-#EXTINF:-1 tvg-id="141447" tvg-name="Eagles Xi Vs Uganda [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg" tvg-language="ENGLISH" group-title="Cricket",Eagles Xi Vs Uganda [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141447_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="140466" tvg-name="Sporting Club Delhi Vs Jamshedpur Fc [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140466_5956_SCD_JFC_FC-Web_1772964306483.jpg" tvg-language="ENGLISH" group-title="Football",Sporting Club Delhi Vs Jamshedpur Fc [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/140466_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="140466" tvg-name="Sporting Club Delhi Vs Jamshedpur Fc [HINDI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140466_5956_SCD_JFC_FC-Web_1772964306483.jpg" tvg-language="HINDI" group-title="Football",Sporting Club Delhi Vs Jamshedpur Fc [HINDI]
-https://msr-sagor.github.io/Fantastic-four/140466_HINDI.m3u8
-#EXTINF:-1 tvg-id="140466" tvg-name="Sporting Club Delhi Vs Jamshedpur Fc [MALAYALAM]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140466_5956_SCD_JFC_FC-Web_1772964306483.jpg" tvg-language="MALAYALAM" group-title="Football",Sporting Club Delhi Vs Jamshedpur Fc [MALAYALAM]
-https://msr-sagor.github.io/Fantastic-four/140466_MALAYALAM.m3u8
-#EXTINF:-1 tvg-id="140466" tvg-name="Sporting Club Delhi Vs Jamshedpur Fc [BENGALI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140466_5956_SCD_JFC_FC-Web_1772964306483.jpg" tvg-language="BENGALI" group-title="Football",Sporting Club Delhi Vs Jamshedpur Fc [BENGALI]
-https://msr-sagor.github.io/Fantastic-four/140466_BENGALI.m3u8
 #EXTINF:-1 tvg-id="141389" tvg-name="Marquee Feed Day 1 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Marquee Feed Day 1 [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141389_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141387" tvg-name="Featured Holes Day 1 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Featured Holes Day 1 [ENGLISH]
@@ -25,8 +15,6 @@ https://msr-sagor.github.io/Fantastic-four/141388_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/141459_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141457" tvg-name="H Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",H Court Feed [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141457_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141532" tvg-name="J Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",J Court Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141532_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141531" tvg-name="I Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",I Court Feed [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141531_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141036" tvg-name="World Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",World Feed [ENGLISH]
@@ -35,3 +23,5 @@ https://msr-sagor.github.io/Fantastic-four/141036_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/141458_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141456" tvg-name="C Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",C Court Feed [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141456_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141460" tvg-name="B Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg" tvg-language="ENGLISH" group-title="Tennis",B Court Feed [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141460_ENGLISH.m3u8
