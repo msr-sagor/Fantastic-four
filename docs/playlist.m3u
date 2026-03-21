@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="140958" tvg-name="Swansea City A.f.c. Vs Coventry City F.c. [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140958_5489_SWA_CVC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Swansea City A.f.c. Vs Coventry City F.c. [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/140958_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="131117" tvg-name="Levante Vs Real Oviedo [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131117_5427_LE_RO_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Levante Vs Real Oviedo [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/131117_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="131111" tvg-name="Ca Osasuna Vs Girona Fc [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131111_5427_OSN_GIR_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Ca Osasuna Vs Girona Fc [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/131111_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="131118" tvg-name="Sevilla Fc Vs Valencia Cf [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Sevilla Fc Vs Valencia Cf [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/131118_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141409" tvg-name="Cádiz Vs Málaga [ENGLISH]" tvg-logo="https://images.fancode.com/aig/match/v1773431102733/141409_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",Cádiz Vs Málaga [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141409_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="139928" tvg-name="Brazil Gp [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" tvg-language="ENGLISH" group-title="MotoGP",Brazil Gp [ENGLISH]
@@ -31,3 +29,5 @@ https://msr-sagor.github.io/Fantastic-four/141041_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/141400_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141470" tvg-name="C Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",C Court Feed [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141470_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="131111" tvg-name="Ca Osasuna Vs Girona Fc [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131111_5427_OSN_GIR_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Ca Osasuna Vs Girona Fc [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/131111_ENGLISH.m3u8
