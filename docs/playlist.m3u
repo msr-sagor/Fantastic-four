@@ -13,6 +13,10 @@ https://msr-sagor.github.io/Fantastic-four/140470_MALAYALAM.m3u8
 https://msr-sagor.github.io/Fantastic-four/140470_BENGALI.m3u8
 #EXTINF:-1 tvg-id="141182" tvg-name="Kerala Blasters Fc Vs Punjab Fc [MALAYALAM]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141182_5973_KBFC_PFC_fc-web.jpg" tvg-language="MALAYALAM" group-title="Football",Kerala Blasters Fc Vs Punjab Fc [MALAYALAM]
 https://msr-sagor.github.io/Fantastic-four/141182_MALAYALAM.m3u8
+#EXTINF:-1 tvg-id="140957" tvg-name="Sheffield United F.c. Vs Wrexham A.f.c. [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140957_5489_SHF_WRX_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Sheffield United F.c. Vs Wrexham A.f.c. [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/140957_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="131116" tvg-name="Rcd Espanyol Vs Getafe Cf [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131116_5427_ESL_GEF_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Rcd Espanyol Vs Getafe Cf [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/131116_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="139928" tvg-name="Brazil Gp [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png" tvg-language="ENGLISH" group-title="MotoGP",Brazil Gp [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/139928_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141396" tvg-name="Main Feed Day 3 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Main Feed Day 3 [ENGLISH]
@@ -25,5 +29,13 @@ https://msr-sagor.github.io/Fantastic-four/141398_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/141397_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141399" tvg-name="Marquee Feed Day 3 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Marquee Feed Day 3 [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141399_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="140956" tvg-name="Ipswich Town F.c. Vs Millwall F.c. [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140956_5489_IPT_MLW_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Ipswich Town F.c. Vs Millwall F.c. [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/140956_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141042" tvg-name="World Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",World Feed [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141042_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141469" tvg-name="B Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",B Court Feed [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141469_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141468" tvg-name="F Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",F Court Feed [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141468_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141467" tvg-name="D Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",D Court Feed [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141467_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141466" tvg-name="E Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",E Court Feed [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141466_ENGLISH.m3u8
