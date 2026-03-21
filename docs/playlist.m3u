@@ -3,12 +3,12 @@
 https://msr-sagor.github.io/Fantastic-four/141448_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141159" tvg-name="Arsenal Women Vs West Ham United Women [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141159_5826_ARS-W_WHU-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",Arsenal Women Vs West Ham United Women [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141159_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141156" tvg-name="Manchester United Women Vs Everton Women [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141156_5826_MUN-W_EVE-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",Manchester United Women Vs Everton Women [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141156_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141158" tvg-name="London City Lionesses Vs Chelsea F.c. Women [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141158_5826_LCL_CHE-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",London City Lionesses Vs Chelsea F.c. Women [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141158_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141157" tvg-name="Manchester City Vs Tottenham Hotspur Women [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141157_5826_MCI_TOT-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",Manchester City Vs Tottenham Hotspur Women [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141157_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141156" tvg-name="Manchester United Women Vs Everton Women [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141156_5826_MUN-W_EVE-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",Manchester United Women Vs Everton Women [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141156_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="140956" tvg-name="Ipswich Town F.c. Vs Millwall F.c. [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140956_5489_IPT_MLW_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Ipswich Town F.c. Vs Millwall F.c. [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/140956_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="131115" tvg-name="Elche Cf Vs Rcd Mallorca [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131115_5427_ELC_MRC_FC-Web.png" tvg-language="ENGLISH" group-title="Football",Elche Cf Vs Rcd Mallorca [ENGLISH]
@@ -17,3 +17,9 @@ https://msr-sagor.github.io/Fantastic-four/131115_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/139928_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141396" tvg-name="Main Feed Day 3 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Main Feed Day 3 [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141396_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141444" tvg-name="Day 2 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1773989745777.png" tvg-language="ENGLISH" group-title="Live Events",Day 2 [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141444_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141398" tvg-name="Featured Holes Day 3 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Featured Holes Day 3 [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141398_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141397" tvg-name="Featured Groups Day 3 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Featured Groups Day 3 [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141397_ENGLISH.m3u8
