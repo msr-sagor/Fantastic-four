@@ -21,8 +21,6 @@ https://msr-sagor.github.io/Fantastic-four/141399_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/141042_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141469" tvg-name="B Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",B Court Feed [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141469_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141468" tvg-name="F Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",F Court Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141468_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141467" tvg-name="D Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",D Court Feed [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141467_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141466" tvg-name="E Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",E Court Feed [ENGLISH]
@@ -31,3 +29,5 @@ https://msr-sagor.github.io/Fantastic-four/141466_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/141041_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141400" tvg-name="World Feed Day 3 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",World Feed Day 3 [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141400_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141470" tvg-name="C Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",C Court Feed [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141470_ENGLISH.m3u8
