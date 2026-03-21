@@ -7,8 +7,6 @@ https://msr-sagor.github.io/Fantastic-four/131116_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/139928_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141396" tvg-name="Main Feed Day 3 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Main Feed Day 3 [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141396_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141444" tvg-name="Day 2 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1773989745777.png" tvg-language="ENGLISH" group-title="Live Events",Day 2 [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141444_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141398" tvg-name="Featured Holes Day 3 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Featured Holes Day 3 [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141398_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141397" tvg-name="Featured Groups Day 3 [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg" tvg-language="ENGLISH" group-title="Golf",Featured Groups Day 3 [ENGLISH]
@@ -25,3 +23,7 @@ https://msr-sagor.github.io/Fantastic-four/141468_ENGLISH.m3u8
 https://msr-sagor.github.io/Fantastic-four/141467_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141466" tvg-name="E Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",E Court Feed [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141466_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141041" tvg-name="A Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",A Court Feed [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141041_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="140958" tvg-name="Swansea City A.f.c. Vs Coventry City F.c. [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140958_5489_SWA_CVC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Swansea City A.f.c. Vs Coventry City F.c. [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/140958_ENGLISH.m3u8
