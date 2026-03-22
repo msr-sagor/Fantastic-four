@@ -1,7 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="141377" tvg-name="Manorama Marvels Vs Chambal Chargers [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141377_6007_MM_CC_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Manorama Marvels Vs Chambal Chargers [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141377_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141339" tvg-name="Chennai Marvels Vs Ahmedabad Lions [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141339_6005_CML_ALA_fc-Web_1773994359668.jpg" tvg-language="ENGLISH" group-title="Cricket",Chennai Marvels Vs Ahmedabad Lions [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141339_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="140922" tvg-name="Perth Glory Vs Melbourne City [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Perth Glory Vs Melbourne City [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/140922_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="140471" tvg-name="Chennaiyin Fc Vs Fc Goa [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140471_5956_CFC_FCG_FC-Web_1772452289464.jpg" tvg-language="ENGLISH" group-title="Football",Chennaiyin Fc Vs Fc Goa [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/140471_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="140471" tvg-name="Chennaiyin Fc Vs Fc Goa [HINDI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140471_5956_CFC_FCG_FC-Web_1772452289464.jpg" tvg-language="HINDI" group-title="Football",Chennaiyin Fc Vs Fc Goa [HINDI]
+https://msr-sagor.github.io/Fantastic-four/140471_HINDI.m3u8
+#EXTINF:-1 tvg-id="140471" tvg-name="Chennaiyin Fc Vs Fc Goa [TAMIL]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140471_5956_CFC_FCG_FC-Web_1772452289464.jpg" tvg-language="TAMIL" group-title="Football",Chennaiyin Fc Vs Fc Goa [TAMIL]
+https://msr-sagor.github.io/Fantastic-four/140471_TAMIL.m3u8
+#EXTINF:-1 tvg-id="140471" tvg-name="Chennaiyin Fc Vs Fc Goa [MALAYALAM]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140471_5956_CFC_FCG_FC-Web_1772452289464.jpg" tvg-language="MALAYALAM" group-title="Football",Chennaiyin Fc Vs Fc Goa [MALAYALAM]
+https://msr-sagor.github.io/Fantastic-four/140471_MALAYALAM.m3u8
+#EXTINF:-1 tvg-id="140471" tvg-name="Chennaiyin Fc Vs Fc Goa [BENGALI]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140471_5956_CFC_FCG_FC-Web_1772452289464.jpg" tvg-language="BENGALI" group-title="Football",Chennaiyin Fc Vs Fc Goa [BENGALI]
+https://msr-sagor.github.io/Fantastic-four/140471_BENGALI.m3u8
+#EXTINF:-1 tvg-id="141183" tvg-name="Chennaiyin Fc Vs Fc Goa [TAMIL]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141183_5973_CFC_FCG_fc-web.jpg" tvg-language="TAMIL" group-title="Football",Chennaiyin Fc Vs Fc Goa [TAMIL]
+https://msr-sagor.github.io/Fantastic-four/141183_TAMIL.m3u8
+#EXTINF:-1 tvg-id="141160" tvg-name="Brighton And Hove Albion Women Vs Liverpool Women [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141160_5826_BHA-W_LIV-W_FC-Web.jpg" tvg-language="ENGLISH" group-title="Football",Brighton And Hove Albion Women Vs Liverpool Women [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141160_ENGLISH.m3u8
