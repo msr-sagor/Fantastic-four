@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="141064" tvg-name="South Africa Vs New Zealand [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg" tvg-language="ENGLISH" group-title="Cricket",South Africa Vs New Zealand [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141064_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141338" tvg-name="Delhi Titans Vs Jaipur Royals [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141338_6005_DTA_JR_fc-Web_1773994359711.jpg" tvg-language="ENGLISH" group-title="Cricket",Delhi Titans Vs Jaipur Royals [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141338_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141377" tvg-name="Manorama Marvels Vs Chambal Chargers [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141377_6007_MM_CC_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Manorama Marvels Vs Chambal Chargers [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141377_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="141339" tvg-name="Chennai Marvels Vs Ahmedabad Lions [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141339_6005_CML_ALA_fc-Web_1773994359668.jpg" tvg-language="ENGLISH" group-title="Cricket",Chennai Marvels Vs Ahmedabad Lions [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/141339_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="140922" tvg-name="Perth Glory Vs Melbourne City [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",Perth Glory Vs Melbourne City [ENGLISH]
 https://msr-sagor.github.io/Fantastic-four/140922_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141064" tvg-name="South Africa Vs New Zealand [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg" tvg-language="ENGLISH" group-title="Cricket",South Africa Vs New Zealand [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141064_ENGLISH.m3u8
