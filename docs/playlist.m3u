@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="141044" tvg-name="World Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",World Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141044_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141474" tvg-name="F Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",F Court Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141474_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141471" tvg-name="B Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",B Court Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141471_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141472" tvg-name="C Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",C Court Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141472_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141046" tvg-name="A Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",A Court Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141046_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="141473" tvg-name="D Court Feed [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg" tvg-language="ENGLISH" group-title="Tennis",D Court Feed [ENGLISH]
-https://msr-sagor.github.io/Fantastic-four/141473_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141340" tvg-name="Mumbai Aces Vs Jaipur Royals [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141340_6005_MA_JR_fc-Web_1773994359692.jpg" tvg-language="ENGLISH" group-title="Cricket",Mumbai Aces Vs Jaipur Royals [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141340_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="141378" tvg-name="Yamuna Super Kings Vs Saryu Smashers [ENGLISH]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141378_6007_YSK_SS_FC-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",Yamuna Super Kings Vs Saryu Smashers [ENGLISH]
+https://msr-sagor.github.io/Fantastic-four/141378_ENGLISH.m3u8
